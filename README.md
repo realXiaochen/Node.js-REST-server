@@ -11,5 +11,5 @@ A full-fledged REST API server
 - Start MongoDB
 
 ```
-node start
+npm start
 ```
