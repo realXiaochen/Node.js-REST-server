@@ -9,4 +9,7 @@ A full-fledged REST API server
 ## How to use
 - Go to /app.js, change the Mongodb url
 - Start MongoDB
-- node start
+
+```
+node start
+```
